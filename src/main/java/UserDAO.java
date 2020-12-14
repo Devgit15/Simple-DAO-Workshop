@@ -1,5 +1,4 @@
 
-import com.mysql.cj.protocol.Resultset;
 import org.mindrot.jbcrypt.BCrypt;
 
 import java.sql.*;
