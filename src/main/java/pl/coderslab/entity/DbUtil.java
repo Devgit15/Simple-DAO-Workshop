@@ -1,3 +1,5 @@
+package pl.coderslab.entity;
+
 import java.sql.*;
 
 public class DbUtil {
